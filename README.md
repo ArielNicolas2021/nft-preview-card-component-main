@@ -11,8 +11,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-nKg6CE-jov](https://www.frontendmentor.io/solutions/nft-preview-card-nKg6CE-jov)
+- Live Site URL: [https://arielnicolas2021.github.io/nft-preview-card-component-main/](https://arielnicolas2021.github.io/nft-preview-card-component-main/)
 
 ### Built with
 
@@ -24,8 +24,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@ArielNicolas2021](https://www.frontendmentor.io/profile/ArielNicolas2021)
+- Twitter - [@ArielNicolas02](https://www.twitter.com/ArielNicolas02)
 
 ## Screenshot
 
